@@ -41,10 +41,14 @@ Enter First Name: Khaled
 
 Enter Last Name: Mahmoud
 
-1 - Freshman 
-2 - Sophomore 
-3 - Junior 
+1 - Freshman
+
+2 - Sophomore
+
+3 - Junior
+
 4 - Senior
+
 Enter Student Class Level: 2
 
 Student Created: Khaled Mahmoud | Year: 2 | ID: 21001
