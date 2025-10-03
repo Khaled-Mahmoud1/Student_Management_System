@@ -28,3 +28,18 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Build directories
+target/
+
+# OS files
+Thumbs.db
